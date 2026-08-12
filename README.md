@@ -73,16 +73,6 @@ Some of the main observations from the analysis include:
 * Summary tables
 * Multi-page dashboard navigation
 ---
-## 📸 Dashboard Preview
 
-### Salary Overview
-<img width="897" height="506" alt="image" src=https://1drv.ms/i/c/00db9df23472c960/IQCDfB27sgc2TrH6E4_6ZlqtAYyrWPhRv5tBcyLXbQkkbuc?e=68KiGv>
 
-### Salary Analysis
 
-![Salary Analysis
-(https://1drv.ms/i/c/00db9df23472c960/IQBDGcbqoK4RR4WlUCj9bitzAUpDZqrOOWry-Xdv8SjujVo?e=Rov8xz)
-
-### Employee Profile
-
-![Employee Profile](https://1drv.ms/i/c/00db9df23472c960/IQASP6eLvG4ISoZRGJo57G5dAXfBbjL7_j-l4qtrlV5ZYdI?e=LRan3K)
