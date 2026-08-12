@@ -77,12 +77,12 @@ Some of the main observations from the analysis include:
 
 ### Salary Overview
 
-![Salary Overview](Page 1)
+![Salary Overview]([Page 1](https://github.com/bhavya2105-11/Employee-salary-analytics-PowerBi/blob/main/Page%201))
 
 ### Salary Analysis
 
-![Salary Analysis](Page 2)
+![Salary Analysis]([Page 2](https://github.com/bhavya2105-11/Employee-salary-analytics-PowerBi/blob/main/Page%202))
 
 ### Employee Profile
 
-![Employee Profile](Page 3)
+![Employee Profile]([Page 3](https://github.com/bhavya2105-11/Employee-salary-analytics-PowerBi/blob/main/Page%203))
