@@ -76,8 +76,7 @@ Some of the main observations from the analysis include:
 ## 📸 Dashboard Preview
 
 ### Salary Overview
-
-![Salary Overview](https://1drv.ms/i/c/00db9df23472c960/IQCDfB27sgc2TrH6E4_6ZlqtAYyrWPhRv5tBcyLXbQkkbuc?e=68KiGv)
+<img width="897" height="506" alt="image" src=https://1drv.ms/i/c/00db9df23472c960/IQCDfB27sgc2TrH6E4_6ZlqtAYyrWPhRv5tBcyLXbQkkbuc?e=68KiGv>
 
 ### Salary Analysis
 
