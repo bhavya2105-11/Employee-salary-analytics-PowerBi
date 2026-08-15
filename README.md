@@ -3,6 +3,11 @@
 An interactive **Power BI dashboard** built to analyze employee salaries, workforce characteristics, and factors associated with annual salary.
 
 This project uses an **Employee Compensation & Salary Prediction dataset** containing 1,000 employee records and explores salary patterns across experience, skills, performance, education, job roles, city tiers, and work type.
+
+## Dashboard Preview
+
+![Dashboard]()
+
 ---
 ## 📊 Dashboard Overview
 The dashboard contains three analytical pages:
