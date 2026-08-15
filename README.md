@@ -6,7 +6,9 @@ This project uses an **Employee Compensation & Salary Prediction dataset** conta
 
 ## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/bhavya2105-11/Employee-salary-analytics-PowerBi/blob/main/Page%201.PNG)
+![Dashboard](https://github.com/bhavya2105-11/Employee-salary-analytics-PowerBi/blob/main/Page2.PNG)
+![Dashboard](https://github.com/bhavya2105-11/Employee-salary-analytics-PowerBi/blob/main/Page%203.PNG)
 
 ---
 ## 📊 Dashboard Overview
